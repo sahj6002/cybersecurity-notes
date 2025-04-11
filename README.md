@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Learning Notes
+# Cybersecurity Learning Notes
 
 A curated collection of my personal notes while studying cybersecurity fundamentals, tools, and concepts. This repository serves as my knowledge base and study journal as I prepare for a career in cybersecurity.
 
