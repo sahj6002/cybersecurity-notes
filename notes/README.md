@@ -4,6 +4,6 @@ This folder contains all my written notes on cybersecurity topics as I study net
 
 ---
 
-## 📄 Contents
+## Contents
 
 - [networking-basics.md](networking-basics.md) – A beginner-friendly summary of core networking concepts.
