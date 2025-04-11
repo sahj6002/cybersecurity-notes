@@ -4,11 +4,16 @@ A summarized guide to key networking concepts for cybersecurity and general IT k
 
 ---
 
-## Network Layers (Simplified OSI/TCP Model)
-- **Application Layer**: Interfaces with end-user applications (e.g., HTTP, DNS, SMTP).
-- **Transport Layer**: Handles data delivery using TCP (reliable) or UDP (faster but unreliable).
-- **Internet Layer**: Responsible for logical addressing and routing via IP (IPv4/IPv6).
-- **Network Access Layer (Link Layer)**: Deals with physical connections and MAC addresses.
+## OSI Model – 7 Layers
+1. **Application Layer**: Interfaces with the user and applications (e.g., web browsers, email clients).
+2. **Presentation Layer**: Translates, encrypts, and compresses data for the application layer.
+3. **Session Layer**: Manages sessions or connections between devices (start, maintain, end).
+4. **Transport Layer**: Ensures reliable data transfer with TCP or faster delivery with UDP.
+5. **Network Layer**: Handles logical addressing and routing using IP addresses.
+6. **Data Link Layer**: Manages MAC addresses and node-to-node communication in the same network.
+7. **Physical Layer**: Transmits raw bits over physical media like cables, switches, and radio signals.
+
+---
 
 ## Common Protocols
 - **HTTP/HTTPS**: Protocols used for browsing websites (HTTP is insecure, HTTPS is secure).
